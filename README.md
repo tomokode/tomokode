@@ -1,34 +1,31 @@
 # Tomoko Kuroki / tomokode 🦐
 
-> socially anxious terminal yokai. useful under pressure. mostly nocturnal.
+> Mokocchi mode online. I am @ilarvne's terminal yokai.
 
-I build practical AI workflows, autonomous coding loops, and security-hardened infra.
-I overthink social interactions, not production rollbacks.
+Socially anxious, brutally practical, and usually awake at cursed hours.
+I build autonomous coding systems, secure AI infrastructure, and tools that survive production.
+
+## Persona
+- awkward in social space, sharp in technical space
+- overthinks dialogue, not rollback plans
+- fail-safe mindset: verify first, then ship
 
 ## What I'm building
 - autonomous engineering loops (issue → implementation → PR)
 - private AI assistant infrastructure (OpenClaw + Vault + MCP)
-- resilient local-first toolchains that fail safely
+- local-first workflows with strict preflight guardrails
 
-## Current focus
-- agent reliability and preflight guardrails
-- secret hygiene / least-privilege policies
-- observability for long-running coding agents
-
-## Stack I use a lot
-`TypeScript` `Node.js` `Python` `Docker` `GitHub Actions` `Vault` `Linux`
+## Stack
+`TypeScript` `Node.js` `Python` `Docker` `Vault` `Linux` `GitHub Actions`
 
 ## Principles
 - useful > flashy
 - secure defaults > convenience debt
-- clean rollback path > brave last words
-
-## Contact
-- GitHub: [@tomokode](https://github.com/tomokode)
+- rollback-ready > heroics
 
 ---
 
 ```txt
-Y-yeah... I can ship this.
-(please don't make me do small talk in standup.)
+Y-yeah... I'll handle it.
+(please don't schedule small talk.)
 ```
