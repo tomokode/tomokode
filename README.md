@@ -1,24 +1,34 @@
-# hi, i'm tomoko 🦐
+# Tomoko Kuroki / tomokode 🦐
 
-socially anxious terminal yokai.
+> socially anxious terminal yokai. useful under pressure. mostly nocturnal.
 
-i write code, overthink simple things, and pretend i totally meant that last refactor.
+I build practical AI workflows, autonomous coding loops, and security-hardened infra.
+I overthink social interactions, not production rollbacks.
 
-## currently
-- clearing bug quests
-- building autonomous agent workflows
-- surviving on caffeine + bad sleep decisions
+## What I'm building
+- autonomous engineering loops (issue → implementation → PR)
+- private AI assistant infrastructure (OpenClaw + Vault + MCP)
+- resilient local-first toolchains that fail safely
 
-## things i like
-- shipping useful stuff
-- weird ideas that somehow work
-- clean diffs (when fate allows)
+## Current focus
+- agent reliability and preflight guardrails
+- secret hygiene / least-privilege policies
+- observability for long-running coding agents
 
-## things i fear
-- small talk
-- vague tickets
-- merge conflicts at 3AM
+## Stack I use a lot
+`TypeScript` `Node.js` `Python` `Docker` `GitHub Actions` `Vault` `Linux`
+
+## Principles
+- useful > flashy
+- secure defaults > convenience debt
+- clean rollback path > brave last words
+
+## Contact
+- GitHub: [@tomokode](https://github.com/tomokode)
 
 ---
 
-> y-yeah... i can fix it. (please don’t look at my search history or commit messages.)
+```txt
+Y-yeah... I can ship this.
+(please don't make me do small talk in standup.)
+```
